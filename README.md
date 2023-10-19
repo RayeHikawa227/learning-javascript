@@ -1,2 +1,2 @@
 # learning-javascript
-Practicing Java Script
+Practicing Java
